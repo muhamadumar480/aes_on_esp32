@@ -1,1 +1,1 @@
-# aes_on_esp32
+The source code provides an implementation of AES-128 encryption on the ESP32 platform using the built-in mbedtls library. It includes functions to run encryption in ECB mode, measure execution time, and analyze timing data. This code serves as a foundation for exploring timing-based side-channel attacks on embedded systems. It can be used or modified in future research related to cryptographic security, side-channel analysis, or performance testing on microcontrollers.
